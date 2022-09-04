@@ -1,1 +1,1 @@
-Create a script that switches the current user to the user betty.
+Prints all the groups the current user is part of
